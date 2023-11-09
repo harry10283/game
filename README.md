@@ -2,7 +2,7 @@
 ## What idea(s) do you have for your final project?
 TODO
 
-Module 11 games pong or mario.
+Module 11 games pong and mario.
 ## If you plan to collaborate with one or two classmates, what are their names?
 TODO
 
